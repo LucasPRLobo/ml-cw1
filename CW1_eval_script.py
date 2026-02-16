@@ -15,6 +15,7 @@ categorical_cols = ['cut', 'color', 'clarity']
 
 # One-hot encode categorical variables
 trn = pd.get_dummies(trn, columns=categorical_cols, drop_first=True)
+X_tst = pd.get_dummies(X_tst, columns=categorical_cols, drop_first=True)
 
 # Train your model (using a simple LM here as an example)
 X_trn = trn.drop(columns=['outcome'])
