@@ -1,1 +1,0 @@
-The baseline evaluation script assumes clean numerical inputs and therefore cannot be run directly on the raw dataset. Initial exploratory analysis revealed categorical variables and missing values, necessitating a preprocessing pipeline prior to model training
