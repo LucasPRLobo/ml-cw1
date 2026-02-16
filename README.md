@@ -4,7 +4,7 @@
 
 ## Report
 
-The full report is included as a PDF: `k23075501_5CCSAMLF_Coursework_1_Report.pdf`
+The full report is included as a PDF: `k23075501_5CCSAMLF_CW1_Report.pdf`
 
 ## Notebooks (step-by-step)
 
